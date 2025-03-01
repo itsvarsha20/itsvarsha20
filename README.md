@@ -39,7 +39,6 @@ I love working on **AI-powered applications**, **dynamic web UIs**, and **full-s
 ✔ **Diet recommendations** based on health needs  
 ✔ **Firebase integration** for real-time data  
 
-![Medicine Reminder UI](https://media.giphy.com/media/3o7btNRTJ700Vzmn5i/giphy.gif)  
 
 🔗 **Live Demo**: [Coming Soon]  
 🔗 **GitHub Repo**: [itsvarsha20/MedicationReminder](#)  
